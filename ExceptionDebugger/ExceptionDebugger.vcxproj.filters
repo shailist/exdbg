@@ -9,6 +9,5 @@
   <ItemGroup>
     <ClInclude Include="Asio.hpp" />
     <ClInclude Include="MessageQueue.hpp" />
-    <ClInclude Include="TypeTraits.hpp" />
   </ItemGroup>
 </Project>
