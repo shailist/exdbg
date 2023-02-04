@@ -401,3 +401,4 @@ FodyWeavers.xsd
 out/
 .vscode/
 .idea/
+vcpkg_installed/

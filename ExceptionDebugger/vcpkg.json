@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "veh-debugger",
+  "version": "0.0.1",
+  "dependencies": [
+    "boost-asio",
+    "fmt",
+    "range-v3",
+    "scnlib"
+  ]
+}
